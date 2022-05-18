@@ -1,7 +1,7 @@
 {
-  "name": "teslabot",
-  "version": "1.5.0",
-  "repository": "https://github.com/ex3ndr/teslabot.git",
+  "name": "teslabot-fix",
+  "version": "1.5.1",
+  "repository": "https://github.com/cryshado/teslabot-fix",
   "author": "Steve Korshakov <steve@korshakov.com>",
   "license": "MIT",
   "main": "dist/index.js",
